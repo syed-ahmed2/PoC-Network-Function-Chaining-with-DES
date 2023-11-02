@@ -22,7 +22,7 @@ The formatting here should be basically maintained, with the source code in the 
 
 ## 🚀 Description and Objective
 
-Use this space to provide clarity around what the objective of the PoC is and what the end result of successfully running through the exercise should look like.
+This project demos the NFC
 
 
 ## 📋 Requirements
